@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github.com/QtEnjoyer/github-stats/blob/master/generated/languages.svg)
+
 <!--
 **QtEnjoyer/QtEnjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
